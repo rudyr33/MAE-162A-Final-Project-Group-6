@@ -12,3 +12,23 @@
 %       translation of the table's center of mass along the y-axis. In
 %       addition, the table cannot tilt more than 1deg above or below the
 %       horizontal.
+
+% Set fixed values
+A = 212.5; %mm
+r1 = 4*A; %mm
+r2 = 5*A;
+r3 = 2*A;
+r4 = r2;
+t1 = 0; %rad
+
+% Set minimum value angles
+
+
+
+% Newton-Raphson's to solve for angles
+function [t5, t6] = NR(r1, r2, r3, r4, r5, r6, r16, r15, ...
+    t1, t2, t3, t4, t15, t16)
+
+
+    
+end
