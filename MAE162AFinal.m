@@ -1,6 +1,6 @@
 %% MAE 162A Final Project Code
 % Names: Ahan Agarwal, Jackson Bullard, Dario Cardenas, Alexi Gill, 
-%        Pearl Klassen, Martin Nay, Grace Pelligrino, Rodolfo Ruiz, 
+%        Pearl Klassen, Martin Nay, Grace Pelligrino, Rodolfo(Rudy) Ruiz, 
 %        Lance Taylor, Mikaela Van de Heetkamp
 % Class: MECH&AE 162A
 % Instructor: Christopher Matthes
