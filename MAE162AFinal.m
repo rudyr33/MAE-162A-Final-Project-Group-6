@@ -23,7 +23,7 @@ t1 = 0; %rad
 
 % Set minimum value angles
 
-
+% Newton-Raphson's to solve for Chebyshev Linkage
 
 % Newton-Raphson's to solve for angles
 function [t5, t6] = NR(r1, r2, r3, r4, r5, r6, r16, r15, ...
